@@ -1,7 +1,7 @@
 # P1.PirateFeud.AshleyVanaman
 # CS315 Project 1
 
-# How to Play
+## How to Play
   Launch: space bar
   Angle Up: up arrow
   Angle Down: down arrow
